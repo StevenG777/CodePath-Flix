@@ -22,11 +22,11 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-![Flix Part 1](https://user-images.githubusercontent.com/96842497/153139553-524f4436-8952-49ac-a2f9-a577a017db4b.gif)
+![Flix Part 1 (2)](https://user-images.githubusercontent.com/96842497/153553030-7694962d-afe5-4294-9b8c-990a51def0b6.gif)
 
 ### Notes
 Describe any challenges encountered while building the app.
+
 (1) I still have time connecting the Table View object from Main storyboard to the view controller file. For example, the connection is not complete and it left a empty circle instead.
 
 (2) I have difficulty install Cocoapot using Brew. I think it's because of the user priviledge
-![Cocoapot error](https://user-images.githubusercontent.com/96842497/153140084-141504ca-c8bb-47ae-a2e1-37b497195368.jpg)
